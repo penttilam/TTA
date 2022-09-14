@@ -1,0 +1,3 @@
+/home/plant_king/Projects/TTA/cmake-build-debug/CMakeFiles/TTA.dir
+/home/plant_king/Projects/TTA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plant_king/Projects/TTA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
